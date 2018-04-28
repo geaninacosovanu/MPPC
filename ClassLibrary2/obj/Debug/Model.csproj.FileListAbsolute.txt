@@ -1,0 +1,6 @@
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary2\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary2\obj\Debug\Model.csprojResolveAssemblyReference.cache

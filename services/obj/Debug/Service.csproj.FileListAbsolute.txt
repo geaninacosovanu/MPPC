@@ -1,0 +1,2 @@
+C:\Users\cosov\source\repos\Lab3GUI\services\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\cosov\source\repos\Lab3GUI\services\obj\Debug\Service.csprojResolveAssemblyReference.cache

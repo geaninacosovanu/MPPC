@@ -1,0 +1,10 @@
+C:\Users\cosov\source\repos\Lab3GUI\Networking\bin\Debug\Networking.dll
+C:\Users\cosov\source\repos\Lab3GUI\Networking\bin\Debug\Networking.pdb
+C:\Users\cosov\source\repos\Lab3GUI\Networking\bin\Debug\ClassLibrary3.dll
+C:\Users\cosov\source\repos\Lab3GUI\Networking\bin\Debug\ClassLibrary2.dll
+C:\Users\cosov\source\repos\Lab3GUI\Networking\bin\Debug\ClassLibrary3.pdb
+C:\Users\cosov\source\repos\Lab3GUI\Networking\bin\Debug\ClassLibrary2.pdb
+C:\Users\cosov\source\repos\Lab3GUI\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+C:\Users\cosov\source\repos\Lab3GUI\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\cosov\source\repos\Lab3GUI\Networking\obj\Debug\Networking.dll
+C:\Users\cosov\source\repos\Lab3GUI\Networking\obj\Debug\Networking.pdb

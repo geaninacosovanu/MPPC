@@ -1,0 +1,16 @@
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\ClassLibrary5.dll.config
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\EntityFramework.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\System.Data.SQLite.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\EntityFramework.xml
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\System.Data.SQLite.xml
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\obj\Debug\DBUtils.csproj.CoreCompileInputs.cache
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\cosov\source\repos\Lab3GUI\ClassLibrary5\obj\Debug\DBUtils.csprojResolveAssemblyReference.cache
