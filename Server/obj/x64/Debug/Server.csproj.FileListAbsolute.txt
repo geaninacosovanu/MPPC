@@ -26,7 +26,7 @@ C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\System.Data.SQLite.EF6.
 C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\System.Data.SQLite.Linq.dll
 C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\EntityFramework.xml
 C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\EntityFramework.SqlServer.xml
-C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\Protobuf.dll
+C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\ClassLibrary6.dll
 C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\Google.Protobuf.dll
-C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\Protobuf.pdb
+C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\ClassLibrary6.pdb
 C:\Users\cosov\source\repos\Lab3GUI\Server\bin\x64\Debug\Google.Protobuf.xml
